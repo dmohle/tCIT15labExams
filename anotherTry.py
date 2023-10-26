@@ -9,7 +9,7 @@ from openpyxl.styles import NamedStyle
 import datetime
 
 # Define the directory and file paths
-directory = r"C:\2023spring\pythonRoot\lastExcelTry"
+directory = r"C:\Users\BE123\labExamExcel"
 input_file = directory + r"\ExcelLabTestStart.xlsx"
 output_file = directory + r"\CIT15 Excel lab Test_Final_End.xlsx"
 

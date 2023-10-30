@@ -9,3 +9,5 @@ We are one step 11 or 12 ???
 
 create "this is a new file" on Oct 21, 2023
 
+added an image
+
